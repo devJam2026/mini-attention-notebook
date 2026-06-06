@@ -3,6 +3,7 @@
 Welcome to the **Mini Attention Notebook**, an interactive educational dashboard designed to demystify how Transformer Self-Attention operates mathematically and visually. This project is part of the **DevJam LLM Learning 10-Project Series**.
 
 ---
+<img width="1920" height="1225" alt="today" src="https://github.com/user-attachments/assets/0057b5a4-0524-4b3e-bfbf-6caff8499ef4" />
 
 ## 📖 Architectural Documentation Hub
 
